@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jillukarthik.github.io/Amazon-clone-React/static/css/main.24767079.css",
+    "main.js": "/Jillukarthik.github.io/Amazon-clone-React/static/js/main.1ead55f3.js",
+    "static/js/787.ebd7646a.chunk.js": "/Jillukarthik.github.io/Amazon-clone-React/static/js/787.ebd7646a.chunk.js",
+    "index.html": "/Jillukarthik.github.io/Amazon-clone-React/index.html",
+    "main.24767079.css.map": "/Jillukarthik.github.io/Amazon-clone-React/static/css/main.24767079.css.map",
+    "main.1ead55f3.js.map": "/Jillukarthik.github.io/Amazon-clone-React/static/js/main.1ead55f3.js.map",
+    "787.ebd7646a.chunk.js.map": "/Jillukarthik.github.io/Amazon-clone-React/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24767079.css",
+    "static/js/main.1ead55f3.js"
+  ]
+}
